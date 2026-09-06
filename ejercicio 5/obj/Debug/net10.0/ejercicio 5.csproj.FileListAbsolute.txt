@@ -1,0 +1,15 @@
+C:\Users\MINEDUCYT\Desktop\DRS_Guia-Practica\ejercicio 5\bin\Debug\net10.0\ejercicio 5.exe
+C:\Users\MINEDUCYT\Desktop\DRS_Guia-Practica\ejercicio 5\bin\Debug\net10.0\ejercicio 5.deps.json
+C:\Users\MINEDUCYT\Desktop\DRS_Guia-Practica\ejercicio 5\bin\Debug\net10.0\ejercicio 5.runtimeconfig.json
+C:\Users\MINEDUCYT\Desktop\DRS_Guia-Practica\ejercicio 5\bin\Debug\net10.0\ejercicio 5.dll
+C:\Users\MINEDUCYT\Desktop\DRS_Guia-Practica\ejercicio 5\bin\Debug\net10.0\ejercicio 5.pdb
+C:\Users\MINEDUCYT\Desktop\DRS_Guia-Practica\ejercicio 5\obj\Debug\net10.0\ejercicio 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\DRS_Guia-Practica\ejercicio 5\obj\Debug\net10.0\ejercicio 5.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\DRS_Guia-Practica\ejercicio 5\obj\Debug\net10.0\ejercicio 5.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\DRS_Guia-Practica\ejercicio 5\obj\Debug\net10.0\ejercicio 5.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\DRS_Guia-Practica\ejercicio 5\obj\Debug\net10.0\ejercicio 5.sourcelink.json
+C:\Users\MINEDUCYT\Desktop\DRS_Guia-Practica\ejercicio 5\obj\Debug\net10.0\ejercicio 5.dll
+C:\Users\MINEDUCYT\Desktop\DRS_Guia-Practica\ejercicio 5\obj\Debug\net10.0\refint\ejercicio 5.dll
+C:\Users\MINEDUCYT\Desktop\DRS_Guia-Practica\ejercicio 5\obj\Debug\net10.0\ejercicio 5.pdb
+C:\Users\MINEDUCYT\Desktop\DRS_Guia-Practica\ejercicio 5\obj\Debug\net10.0\ejercicio 5.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Desktop\DRS_Guia-Practica\ejercicio 5\obj\Debug\net10.0\ref\ejercicio 5.dll

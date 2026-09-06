@@ -8,25 +8,24 @@
     "net10.0": []
   },
   "packageFolders": {
-    "/Users/avalojandro/.nuget/packages/": {}
+    "C:\\Users\\MINEDUCYT\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/avalojandro/Desktop/Guia Practica/ejercicio 2/ejercicio 2.csproj",
+      "projectUniqueName": "C:\\Users\\MINEDUCYT\\Desktop\\DRS_Guia-Practica\\ejercicio 2\\ejercicio 2.csproj",
       "projectName": "ejercicio 2",
-      "projectPath": "/Users/avalojandro/Desktop/Guia Practica/ejercicio 2/ejercicio 2.csproj",
-      "packagesPath": "/Users/avalojandro/.nuget/packages/",
-      "outputPath": "/Users/avalojandro/Desktop/Guia Practica/ejercicio 2/obj/",
+      "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\DRS_Guia-Practica\\ejercicio 2\\ejercicio 2.csproj",
+      "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MINEDUCYT\\Desktop\\DRS_Guia-Practica\\ejercicio 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/avalojandro/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "/opt/homebrew/Cellar/dotnet/10.0.400/libexec/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -68,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/10.0.400/libexec/sdk/10.0.400/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
