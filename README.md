@@ -1,6 +1,6 @@
-# Guía Práctica - Programación en .NET
+# Guía Práctica - DRS
 
-Este repositorio contiene la resolución de una serie de ejercicios prácticos desarrollados en C# y .NET.
+Ejercicios de guia practica
 
 ---
 
