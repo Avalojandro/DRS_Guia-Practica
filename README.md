@@ -2,18 +2,21 @@
 
 Ejercicios de guia practica
 
+## Alejandro Daniel Avalos Santamaria - AS19014
+
+## David Alfredo Parada Mendoza - PM13119
+
 ---
 
 ## 📋 Requisitos Previos
 
-Para compilar y ejecutar los programas de este repositorio, es necesario contar con **.NET SDK** instalado en tu sistema.
+Para compilar y ejecutar los programas de este repositorio, es necesario contar con **.NET SDK** instalado.
 
 > [!IMPORTANT]
 > Los proyectos están configurados para la versión de destino **.NET 10.0 (`net10.0`)**. Asegúrate de instalar el SDK correspondiente a .NET 10.0 o superior.
 
 ### 1. Descarga e Instalación
 
-Puedes descargar el SDK oficial desde el sitio de Microsoft:
 - [Descargar .NET SDK](https://dotnet.microsoft.com/download)
 
 ### 2. Verificar la Instalación
@@ -49,7 +52,8 @@ Puedes ejecutar cualquiera de los ejercicios de dos maneras:
 ```bash
 dotnet run --project "ejercicio 1"
 ```
-*(Reemplaza `"ejercicio 1"` por el ejercicio que desees ejecutar, por ejemplo: `"ejercicio 2"`, `"ejercicio 3"`, etc.)*
+
+_(Reemplaza `"ejercicio 1"` por el ejercicio que desees ejecutar, por ejemplo: `"ejercicio 2"`, `"ejercicio 3"`, etc.)_
 
 ### Opción 2: Entrando a la carpeta del ejercicio
 
